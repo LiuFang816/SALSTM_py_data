@@ -1,0 +1,11 @@
+from chainerrl.agents.a3c import A3C  # NOQA
+from chainerrl.agents.acer import DiscreteACER  # NOQA
+from chainerrl.agents.al import AL  # NOQA
+from chainerrl.agents.ddpg import DDPG  # NOQA
+from chainerrl.agents.double_dqn import DoubleDQN  # NOQA
+from chainerrl.agents.double_pal import DoublePAL  # NOQA
+from chainerrl.agents.dqn import DQN  # NOQA
+from chainerrl.agents.nsq import NSQ  # NOQA
+from chainerrl.agents.pal import PAL  # NOQA
+from chainerrl.agents.pgt import PGT  # NOQA
+from chainerrl.agents.sarsa import SARSA  # NOQA
